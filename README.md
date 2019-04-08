@@ -1,6 +1,7 @@
 <!-- language: lang-none -->
 # platformgame
 Project for CS107 course.
+Resources need to be downloaded here : https://drive.google.com/open?id=19Z1smRcdZ8PFTEWzpdEbu7vwQYaaHWl5
 
 ![Example](https://i.imgur.com/kY0TDn5.png)
 
